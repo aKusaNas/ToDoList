@@ -1,0 +1,11 @@
+C:\Users\aKu\source\repos\todolist\todolist\obj\Debug\todolist.csprojAssemblyReference.cache
+C:\Users\aKu\source\repos\todolist\todolist\obj\Debug\todolist.csproj.CoreCompileInputs.cache
+C:\Users\aKu\source\repos\todolist\todolist\bin\Debug\todolist.exe.config
+C:\Users\aKu\source\repos\todolist\todolist\bin\Debug\todolist.exe
+C:\Users\aKu\source\repos\todolist\todolist\bin\Debug\todolist.pdb
+C:\Users\aKu\source\repos\todolist\todolist\obj\Debug\todolist.exe
+C:\Users\aKu\source\repos\todolist\todolist\obj\Debug\todolist.pdb
+C:\Users\aKu\source\repos\todolist\todolist\bin\Debug\todolist.exe.manifest
+C:\Users\aKu\source\repos\todolist\todolist\bin\Debug\todolist.application
+C:\Users\aKu\source\repos\todolist\todolist\obj\Debug\todolist.exe.manifest
+C:\Users\aKu\source\repos\todolist\todolist\obj\Debug\todolist.application
